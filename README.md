@@ -5,7 +5,6 @@
 A lightweight MU plugin that adds a small environment indicator to the WordPress admin bar and changes the admin bar color on staging sites.
 So there is no confusion if you are working on a Production or Staging site.
 
-![Environment Indicator for GridPane Screenshot](https://weave-hk-github.b-cdn.net/screens/production-staging.png)
 
 ## For In-House Use
 
