@@ -6,6 +6,9 @@ A lightweight MU plugin that adds a small environment indicator to the WordPress
 So there is no confusion if you are working on a Production or Staging site.
 
 
+![Environment Indicator for GridPane Screenshot](https://weave-hk-github.b-cdn.net/screens/production-staging.png?id=2)
+
+
 ## For In-House Use
 
 This plugin is for in-house use by [Weave Digital Studio](https://weave.co.nz/) and is shared to help other GridPane users manage their staging and production environments.
